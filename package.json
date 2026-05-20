@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Ricardo Lugo Recillas el Richie",
   "license": "ISC",
-  "description": "este es el proyecto de una api"
+  "description": "este es el proyecto de una api",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
